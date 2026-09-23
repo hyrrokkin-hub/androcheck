@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-output/*.txt
-output/*.json
-output/*.pdf
-test_output/
-.venv/
-venv/
